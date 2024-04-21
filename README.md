@@ -6,10 +6,6 @@ User's location is sent to database every 5 seconds.
 
 Backend is implemented via Firebase and Frondend is done with Flutter.
 
-# Audit helper
-
-For the sake of simplicity the whole audit process was recorded on video
-
 ## Authentication and friends
 
 https://youtu.be/bjS1wVuu-Jc
@@ -17,12 +13,6 @@ https://youtu.be/bjS1wVuu-Jc
 ## Locations tracking
 
 https://youtu.be/NuBIzjuJrJs
-
-## Project Description and Audit
-
-- Full project description: https://github.com/01-edu/public/tree/master/subjects/mobile-dev/kahoot
-
-- Audit questions: https://github.com/01-edu/public/tree/master/subjects/mobile-dev/kahoot/audit
 
 # Technologies
 
