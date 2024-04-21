@@ -32,10 +32,22 @@ https://youtu.be/NuBIzjuJrJs
 - Geolocator
 - State management with Provider pattern
 
-# Run project locally (If you're that crazy)
+# Run project locally
 
 - Proceed to the official guide for flutter "Get started" https://docs.flutter.dev/get-started/install
 - Clone this repo to your machine
 - Run **flutter pub get**
 - Run **main.dart** file with debugger (ctrl+F5 in VSCode)
 - Enjoy the app (or don't enjoy)
+
+## Screenshots
+
+<div>
+<img src="./screenshots/login.png" style="width:250px;height:auto;">
+<img src="./screenshots/friends-view.png" style="width:250px;height:auto;">
+<img src="./screenshots/search-view-1.png" style="width:250px;height:auto;">
+<img src="./screenshots/search-view-2.png" style="width:250px;height:auto;">
+<img src="./screenshots/requests-view.png" style="width:250px;height:auto;">
+<img src="./screenshots/map-view-1.png" style="width:250px;height:auto;">
+<img src="./screenshots/map-view-2.png" style="width:250px;height:auto;">
+</div>
